@@ -1,23 +1,24 @@
-def func_1 ():
+def func_1():
     print(1, end="") 
-def func_2 ():
+def func_2():
     print(2, end="")
-def func_3 ():
+def func_3():
     print(3, end="")
-def func_4 ():
+def func_4():
     print(4, end="")
-def func_5 ():
+def func_5():
     print(5, end="")
-def func_6 ():
+def func_6():
     print(6, end="")
-def func_7 ():
+def func_7():
     print(7, end="")
-def func_8 ():
+def func_8():
     print(8, end="")
-def func_9 ():
+def func_9():
     print(9, end="")
-def func_0 ():
+def func_0():
     print(0, end="")
+    
 
 func_8(),
 func_8(),
