@@ -4,4 +4,4 @@ class Address:
         self.city = city
         self.street = street
         self.house = house
-        self.apartment = apartment 
+        self.apartment = apartment
